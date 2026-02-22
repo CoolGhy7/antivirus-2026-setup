@@ -1,0 +1,1 @@
+antivirus setup 2026 displays gdi effects while deliting viruses because it takes a while.
